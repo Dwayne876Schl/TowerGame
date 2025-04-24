@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c37ce9f03906244bb63e2d6882877af
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - displayHealth: {instanceID: 0}
+  - projectile: {fileID: 3514759215621260661, guid: f7cd236c6aeb7ed458db49e84f8cdbae, type: 3}
+  - thisTower: {instanceID: 0}
+  - player: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
